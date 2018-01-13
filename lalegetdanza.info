@@ -1,0 +1,9 @@
+name = LaLeget Danza
+description = Theme for lalegetdanza.com
+version = 1.0
+core = 7.x
+stylesheets[all][] = style.css
+
+regions[header] = Header
+regions[navigation] = Navigation
+regions[content] = Content
